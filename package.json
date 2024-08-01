@@ -1,0 +1,21 @@
+{
+  "name": "midnight-modern",
+  "displayName": "Midnight Modern",
+  "description": "A sleek, contemporary dark theme for VSCode, blending elegance and readability for an enhanced coding experience",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.91.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Midnight Modern",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Midnight Modern-color-theme.json"
+      }
+    ]
+  }
+}
