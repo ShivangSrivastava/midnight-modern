@@ -30,7 +30,7 @@ code --install-extension your-username.midnight-modern-theme
 - Hit **F1**, clear the angled bracket, and type `ext install midnight-modern-theme`.
 
 ## Changelog
-### v1.0.0:
+### v0.0.1:
 - Initial release of Midnight Modern theme.
 - Added custom token colors for better syntax highlighting.
 - Improved sidebar and activity bar integration.
