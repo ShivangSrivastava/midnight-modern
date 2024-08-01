@@ -1,7 +1,5 @@
 # Midnight Modern Theme for Visual Studio Code
 
-![GitHub license](https://img.shields.io/github/license/ShivangSrivastava/midnight-modern-theme) ![GitHub issues](https://img.shields.io/github/issues/ShivangSrivastava/midnight-modern-theme) ![GitHub release](https://img.shields.io/github/v/release/ShivangSrivastava/midnight-modern-theme)
-
 An elegant and contemporary dark theme for Visual Studio Code, designed to enhance readability and aesthetics.
 ![Screenshot](https://raw.githubusercontent.com/ShivangSrivastava/midnight-modern/master/res/Screenshot.png)
 ## Features
@@ -16,10 +14,6 @@ An elegant and contemporary dark theme for Visual Studio Code, designed to enhan
 ## Installation
 The extension is hosted on the Visual Studio Code Marketplace.
 
-### Via Terminal:
-```sh
-code --install-extension your-username.midnight-modern-theme
-```
 
 ### Via VS Code:
 - Open the Extensions sidebar (Ctrl+Shift+X).
