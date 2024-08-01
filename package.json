@@ -1,8 +1,13 @@
 {
   "name": "midnight-modern",
+  "publisher": "ShivangSrivastava",
   "displayName": "Midnight Modern",
   "description": "A sleek, contemporary dark theme for VSCode, blending elegance and readability for an enhanced coding experience",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ShivangSrivastava/midnight-modern"
+  },
   "engines": {
     "vscode": "^1.91.0"
   },
